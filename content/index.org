@@ -1,16 +1,16 @@
-#+title: Org Mode Example Site
+#+title: Maní Con Chocolate
 
-* Overview
+El estilo de la obra es que el narrador y los personajes narran la
+historia en tercera persona, por eso es importante que el texto siga
+igual con las acotaciones, a pesar de que los personajes narren. Al estilo de
+las peliculas de netflix de  [[https://www.netflix.com/search?q=wes%20anderso&suggestionId=Person%3A17266066][Wes Anderson]]
 
-this changed now.
-  
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
+-  [[https://www.netflix.com/watch/81388090?trackId=255875003&tctx=0%2C0%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81388090%2CVideo%3A81388090%2CminiDpPlayButton][La maravillosa historia de Henry Sugar]]
+-  [[https://www.netflix.com/watch/81711973?trackId=255875003&tctx=0%2C3%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81711973%2CVideo%3A81711973%2CminiDpPlayButton][Veneno]]
+-  [[https://www.netflix.com/watch/81711970?trackId=255875003&tctx=0%2C1%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81711970%2CVideo%3A81711970%2CminiDpPlayButton][El desratizador]]
+-  [[https://www.netflix.com/watch/81711971?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C81388090%2CVideo%3A81711971%2CdetailsPageCollection][El cisne]]
 
-Here is a link to my [[./Emacs.org][Emacs configuration]].
+* [[id:d109d71b-842f-4b4c-b4d5-b7e9ba67977d][Escenografía]]
 
-* Links
+* [[id:69265b21-84f6-4006-b803-c73d13427269][maquillaje]]
 
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
