@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manices</title>
+<meta name="generator" content="Org mode">
+<link rel="stylesheet" href="/style.css" type="text/css"/>
+</head>
+<body>
+<div id="content">
+<header>
+<h1 class="title">Manices</h1>
+</header><ul class="org-ul">
+<li><a href="maquillaje.html">Maquillaje</a></li>
+<li><a href="escenografia.html">Escenografía</a></li>
+</ul>
+</div>
+<div id="postamble" class="status">
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
+</div>
+</body>
+</html>
