@@ -27,32 +27,32 @@
 
 ;; Define the publishing project
 (setq org-publish-project-alist
-      (list
-       (list "org-site:main"
+      `(("org-site:main"
              :recursive t
              :base-directory "./content"
-             :publishing-function 'org-html-publish-to-html
+             :publishing-function org-html-publish-to-html
              :publishing-directory "./public"
              :with-author nil           ;; Don't include author name
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil)
-       (list "org-static"
+	("org-static"
 	     :base-directory "./content"
 	     :base-extension "css\\|js\\|png\\|jpg\\|jpeg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
 	     :publishing-directory "./public"
 	     :recursive t
-	     :publishing-function 'org-publish-attachment)
-       (list "blog"
+	     :publishing-function org-publish-attachment)
+	("blog"
 	     :base-directory "./content/blog/"
 	     :base-extension "org"
+	     :recursive t
 	     :publishing-directory "./public/blog/"
-	     :publishing-function 'org-html-publish-to-html
+	     :publishing-function org-html-publish-to-html
 	     :auto-sitemap t
 	     :sitemap-title "Manices"
 	     :sitemap-filename "index.org"
-	     :sitemap-sort-files 'anti-chronologically)
+	     :sitemap-sort-files anti-chronologically)
        ))    ;; Don't include time stamp in file
 
 ;; Generate the site output

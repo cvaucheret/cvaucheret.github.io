@@ -12,5 +12,8 @@ las peliculas de netflix de  [[https://www.netflix.com/search?q=wes%20anderso&su
 
 
 * Manices
-#+INCLUDE: blog/index.org :lines "3-8"
+
+#+begin_blog-entries
+#+INCLUDE: "blog/index.org" :lines "3-"
+#+end_blog-entries  
 [[file:blog/index.org][Ver mas...]]
