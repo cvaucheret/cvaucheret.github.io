@@ -48,11 +48,11 @@
 	     :base-directory "./content/blog/"
 	     :base-extension "org"
 	     :publishing-directory "./public/blog/"
-	     :publishing-function org-html-publish-to-html
+	     :publishing-function 'org-html-publish-to-html
 	     :auto-sitemap t
 	     :sitemap-title "Manices"
 	     :sitemap-filename "index.org"
-	     :sitemap-sort-files anti-chronologically)
+	     :sitemap-sort-files 'anti-chronologically)
        ))    ;; Don't include time stamp in file
 
 ;; Generate the site output
