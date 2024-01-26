@@ -38,7 +38,7 @@
        (list "org-static"
 	     :base-directory "./content"
 	     :base-extension "css\\|js\\|png\\|jpg\\|jpeg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
-	     :publishing-directory "~/public_html/"
+	     :publishing-directory "./public"
 	     :recursive t
 	     :publishing-function 'org-publish-attachment)
        ))    ;; Don't include time stamp in file
