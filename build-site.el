@@ -18,9 +18,12 @@
 
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
+      ;; Enable HTML5
+      org-html-html5-fancy t
+      org-html-doctype     "html5"
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+      org-html-head "<link rel=\"stylesheet\" href=\"/style.css\" type=\"text/css\"/>")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -41,6 +44,15 @@
 	     :publishing-directory "./public"
 	     :recursive t
 	     :publishing-function 'org-publish-attachment)
+       (list "blog"
+	     :base-directory "./content/blog/"
+	     :base-extension "org"
+	     :publishing-directory "./public/blog/"
+	     :publishing-function org-html-publish-to-html
+	     :auto-sitemap t
+	     :sitemap-title "Manices"
+	     :sitemap-filename "index.org"
+	     :sitemap-sort-files anti-chronologically)
        ))    ;; Don't include time stamp in file
 
 ;; Generate the site output

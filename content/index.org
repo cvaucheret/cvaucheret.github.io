@@ -5,25 +5,12 @@ historia en tercera persona, por eso es importante que el texto siga
 igual con las acotaciones, a pesar de que los personajes narren. Al estilo de
 las peliculas de netflix de  [[https://www.netflix.com/search?q=wes%20anderso&suggestionId=Person%3A17266066][Wes Anderson]]
 
--  [[https://www.netflix.com/watch/81388090?trackId=255875003&tctx=0%2C0%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81388090%2CVideo%3A81388090%2CminiDpPlayButton][La maravillosa historia de Henry Sugar]]
--  [[https://www.netflix.com/watch/81711973?trackId=255875003&tctx=0%2C3%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81711973%2CVideo%3A81711973%2CminiDpPlayButton][Veneno]]
--  [[https://www.netflix.com/watch/81711970?trackId=255875003&tctx=0%2C1%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81711970%2CVideo%3A81711970%2CminiDpPlayButton][El desratizador]]
--  [[https://www.netflix.com/watch/81711971?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C81388090%2CVideo%3A81711971%2CdetailsPageCollection][El cisne]]
+- [[https://www.netflix.com/watch/81388090?trackId=255875003&tctx=0%2C0%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81388090%2CVideo%3A81388090%2CminiDpPlayButton][La maravillosa historia de Henry Sugar]]
+- [[https://www.netflix.com/watch/81711973?trackId=255875003&tctx=0%2C3%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81711973%2CVideo%3A81711973%2CminiDpPlayButton][Veneno]]
+- [[https://www.netflix.com/watch/81711970?trackId=255875003&tctx=0%2C1%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81711970%2CVideo%3A81711970%2CminiDpPlayButton][El desratizador]]
+- [[https://www.netflix.com/watch/81711971?trackId=14277281&tctx=-97%2C-97%2C%2C%2C%2C%2C%2C%2C81388090%2CVideo%3A81711971%2CdetailsPageCollection][El cisne]]
 
-* Escenografía
-** videomapping
 
-*** Ejemplos
-    - https://www.youtube.com/watch?v=LGTZMNfeccg
-    - https://www.youtube.com/watch?v=Q5WzAF8ZAVc
-    - https://www.youtube.com/watch?v=8ME3AVcrLOw
-    - https://www.youtube.com/watch?v=3ZxnH7HIkYw&pp=ygUPdGhlYXRyZSBtYXBwaW5n
-    - https://www.youtube.com/watch?v=ryq-hTx6DaM&pp=ygUPdGhlYXRyZSBtYXBwaW5n
-
-* maquillaje
-
-  - [[file:img/descarga (1).jpeg]]
-  - [[file:img/descarga (2).jpeg]]
-  - [[file:img/images (1).jpeg]]
-  - [[file:img/images (2).jpeg]]
-  - [[file:img/images (3).jpeg]]
+* Manices
+#+INCLUDE: blog/blog.org :lines "3-8"
+[[file:blog/index.org][Ver mas...]]

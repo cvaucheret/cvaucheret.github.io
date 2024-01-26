@@ -1,0 +1,13 @@
+#+DATE: [2024-01-26 vie]
+#+TITLE: Maquillaje
+
+
+* maquillaje
+
+  - [[file:img/descarga (1).jpeg]]
+  - [[file:img/descarga (2).jpeg]]
+  - [[file:img/images (1).jpeg]]
+  - [[file:img/images (2).jpeg]]
+  - [[file:img/images (3).jpeg]]
+
+    
