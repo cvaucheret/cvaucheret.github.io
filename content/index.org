@@ -1,6 +1,6 @@
 #+title: Maní Con Chocolate
 
-[[color:orange][Maní]] con [[color:brown][Chocolate]] es una obra de teatro
+[[color:orange][Maní]] con [[color:brown][Chocolate]] es una obra de teatro de Ana Maria Bovo
 
 
 * Maníes
