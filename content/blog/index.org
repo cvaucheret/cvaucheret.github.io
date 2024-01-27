@@ -1,4 +1,5 @@
-#+TITLE: Manices
+#+TITLE: Maníes
 
+- {{{timestamp(2024-01-27)}}} [[file:wesanderson.org][Wes Anderson (inspiración)]]
 - {{{timestamp(2024-01-26)}}} [[file:maquillaje.org][Maquillaje]]
 - {{{timestamp(2024-01-26)}}} [[file:escenografia.org][Escenografía]]
