@@ -41,8 +41,8 @@
       org-export-with-toc nil
 
       ;; ISO8601 Date Format
-      org-export-date-timestamp-format "%Y-%m-%d"
-      org-html-metadata-timestamp-format "%Y-%m-%d"
+      org-export-date-timestamp-format "%d-%m-%Y"
+      org-html-metadata-timestamp-format "%d-%m-%Y"
 
 
       org-html-validation-link nil            ;; Don't show validation link
@@ -66,7 +66,7 @@
     (if (= (length filename) 0)
         (format "*%s*" entry)
       (format "{{{timestamp(%s)}}} [[file:%s][%s]]"
-              (format-time-string "%Y-%m-%d"
+              (format-time-string "%d-%m-%Y"
 				  (org-publish-find-date entry project))
               entry
               filename))))
