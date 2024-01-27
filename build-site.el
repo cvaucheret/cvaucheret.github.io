@@ -100,7 +100,7 @@
 <link rel=\"stylesheet\" media=\"(prefers-color-scheme: dark)\" href=\"../modus-vivendi.css\" type=\"text/css\"/>
 "
 	     :html-preamble "<div id=\"updated\">Actualizado: %C</div>"
-	     :sitemap-title "Manices"
+	     :sitemap-title "Maníes"
 	     :sitemap-filename "index.org"
 	     :time-stamp-file nil
              :sitemap-format-entry my--sitemap-dated-entry-format
