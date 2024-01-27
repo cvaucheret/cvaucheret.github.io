@@ -58,6 +58,7 @@
      	     :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/>"
 	     :sitemap-title "Manices"
 	     :sitemap-filename "index.org"
+	     :time-stamp-file nil
 	     :sitemap-sort-files anti-chronologically)
        ))    ;; Don't include time stamp in file
 
