@@ -23,7 +23,7 @@
       org-html-doctype     "html5"
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/>")
+)
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -36,6 +36,7 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
+	     :html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/>"
              :time-stamp-file nil)
 	("org-static"
 	     :base-directory "./content"
@@ -50,6 +51,11 @@
 	     :publishing-directory "./public/blog/"
 	     :publishing-function org-html-publish-to-html
 	     :auto-sitemap t
+	     :with-author nil           ;; Don't include author name
+             :with-creator t            ;; Include Emacs and Org versions in footer
+             :with-toc nil                ;; Include a table of contents
+             :section-numbers nil       ;; Don't include section numbers
+     	     :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/>"
 	     :sitemap-title "Manices"
 	     :sitemap-filename "index.org"
 	     :sitemap-sort-files anti-chronologically)
