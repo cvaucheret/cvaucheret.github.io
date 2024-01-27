@@ -69,10 +69,10 @@
 <link rel=\"stylesheet\" media=\"(prefers-color-scheme: light)\" href=\"modus-operandi.css\" type=\"text/css\"/>
 <link rel=\"stylesheet\" media=\"(prefers-color-scheme: dark)\" href=\"modus-vivendi.css\" type=\"text/css\"/>
 "
-	     :html-preamble "<div id=\"updated\">Updated: %C</div>"
+	     :html-preamble "<div id=\"updated\">Actualizado: %C</div>"
 	     :html-link-home "https://cvaucheret.github.io/"
 	     :html-link-up "https://cvaucheret.github.io/"
-	     :html-home/up-format "<div id=\"org-div-home-and-up\"><a href=\"%s\">HOME</a></div>"
+	     :html-home/up-format "<div id=\"org-div-home-and-up\"><a href=\"%s\">MANÍ</a></div>"
              :time-stamp-file nil)
 	("org-static"
 	     :base-directory "./content"
@@ -88,7 +88,7 @@
 	     :publishing-function org-html-publish-to-html
 	     :html-link-home "https://cvaucheret.github.io/"
 	     :html-link-up "https://cvaucheret.github.io/blog"
-	     :html-home/up-format "<div id=\"org-div-home-and-up\"><a href=\"%s\">Blog</a> <a href=\"%s\">Home</a> </div>"
+	     :html-home/up-format "<div id=\"org-div-home-and-up\"><a href=\"%s\">MANÍES</a> <a href=\"%s\">MANÍ</a> </div>"
 	     :auto-sitemap t
 	     :with-author nil           ;; Don't include author name
              :with-creator t            ;; Include Emacs and Org versions in footer
@@ -99,7 +99,7 @@
 <link rel=\"stylesheet\" media=\"(prefers-color-scheme: light)\" href=\"../modus-operandi.css\" type=\"text/css\"/>
 <link rel=\"stylesheet\" media=\"(prefers-color-scheme: dark)\" href=\"../modus-vivendi.css\" type=\"text/css\"/>
 "
-	     :html-preamble "<div id=\"updated\">Updated: %C</div>"
+	     :html-preamble "<div id=\"updated\">Actualizado: %C</div>"
 	     :sitemap-title "Manices"
 	     :sitemap-filename "index.org"
 	     :time-stamp-file nil
