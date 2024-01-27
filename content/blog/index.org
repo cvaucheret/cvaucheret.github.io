@@ -1,4 +1,4 @@
 #+TITLE: Manices
 
-- [[file:maquillaje.org][Maquillaje]]
-- [[file:escenografia.org][Escenografía]]
+- {{{timestamp(2024-01-26)}}} [[file:maquillaje.org][Maquillaje]]
+- {{{timestamp(2024-01-26)}}} [[file:escenografia.org][Escenografía]]

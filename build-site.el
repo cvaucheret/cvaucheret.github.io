@@ -17,13 +17,41 @@
 (require 'ox-publish)
 
 ;; Customize the HTML output
-(setq org-html-validation-link nil            ;; Don't show validation link
+(setq
+      org-export-with-section-numbers nil
+      org-export-with-toc nil
+
+      ;; ISO8601 Date Format
+      org-export-date-timestamp-format "%Y-%m-%d"
+      org-html-metadata-timestamp-format "%Y-%m-%d"
+
+
+      org-html-validation-link nil            ;; Don't show validation link
       ;; Enable HTML5
       org-html-html5-fancy t
       org-html-doctype     "html5"
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-)
+      org-html-htmlize-output-type 'css
+      )
+
+(setq org-export-global-macros
+      '(("timestamp" . "@@html:<span class=\"timestamp\">[$1]</span>@@")))
+
+;; Render ~code~ as kbd tag in HTML
+(add-to-list 'org-html-text-markup-alist '(code . "<kbd>%s</kbd>"))
+
+(defun my--sitemap-dated-entry-format (entry style project)
+  "Sitemap PROJECT ENTRY STYLE format that includes date."
+  (let ((filename (org-publish-find-title entry project)))
+    (if (= (length filename) 0)
+        (format "*%s*" entry)
+      (format "{{{timestamp(%s)}}} [[file:%s][%s]]"
+              (format-time-string "%Y-%m-%d"
+				  (org-publish-find-date entry project))
+              entry
+              filename))))
+
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -36,7 +64,15 @@
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-	     :html-head "<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/>"
+	     :html-head "
+                         <link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"/>
+<link rel=\"stylesheet\" media=\"(prefers-color-scheme: light)\" href=\"modus-operandi.css\" type=\"text/css\"/>
+<link rel=\"stylesheet\" media=\"(prefers-color-scheme: dark)\" href=\"modus-vivendi.css\" type=\"text/css\"/>
+"
+	     :html-preamble "<div id=\"updated\">Updated: %C</div>"
+	     :html-link-home "https://cvaucheret.github.io/"
+	     :html-link-up "https://cvaucheret.github.io/"
+	     :html-home/up-format "<div id=\"org-div-home-and-up\"><a href=\"%s\">HOME</a></div>"
              :time-stamp-file nil)
 	("org-static"
 	     :base-directory "./content"
@@ -50,15 +86,24 @@
 	     :recursive t
 	     :publishing-directory "./public/blog/"
 	     :publishing-function org-html-publish-to-html
+	     :html-link-home "https://cvaucheret.github.io/"
+	     :html-link-up "https://cvaucheret.github.io/blog"
+	     :html-home/up-format "<div id=\"org-div-home-and-up\"><a href=\"%s\">Blog</a> <a href=\"%s\">Home</a> </div>"
 	     :auto-sitemap t
 	     :with-author nil           ;; Don't include author name
              :with-creator t            ;; Include Emacs and Org versions in footer
              :with-toc nil                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
-     	     :html-head "<link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/>"
+	     :html-head "
+                         <link rel=\"stylesheet\" href=\"../style.css\" type=\"text/css\"/>
+<link rel=\"stylesheet\" media=\"(prefers-color-scheme: light)\" href=\"../modus-operandi.css\" type=\"text/css\"/>
+<link rel=\"stylesheet\" media=\"(prefers-color-scheme: dark)\" href=\"../modus-vivendi.css\" type=\"text/css\"/>
+"
+	     :html-preamble "<div id=\"updated\">Updated: %C</div>"
 	     :sitemap-title "Manices"
 	     :sitemap-filename "index.org"
 	     :time-stamp-file nil
+             :sitemap-format-entry my--sitemap-dated-entry-format
 	     :sitemap-sort-files anti-chronologically)
        ))    ;; Don't include time stamp in file
 
