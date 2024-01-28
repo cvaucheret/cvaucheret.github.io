@@ -2,10 +2,10 @@
 #+TITLE: Wes Anderson (inspiración)
 
 
-El estilo de la obra es que el narrador y los personajes narran la
+El /estilo/ de la obra es que el narrador y los personajes narran la
 historia en tercera persona, por eso es importante que el texto siga
-igual con las acotaciones, a pesar de que los personajes narren. Al estilo de
-las peliculas de netflix de  [[https://www.netflix.com/search?q=wes%20anderso&suggestionId=Person%3A17266066][Wes Anderson]]
+igual con las acotaciones, a pesar de que los personajes narren. Nos
+hemos inspirado en las peliculas en netflix de [[https://www.netflix.com/search?q=wes%20anderson&suggestionId=Person%3A17266066][Wes Anderson]]
 
 - [[https://www.netflix.com/watch/81388090?trackId=255875003&tctx=0%2C0%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81388090%2CVideo%3A81388090%2CminiDpPlayButton][La maravillosa historia de Henry Sugar]]
 - [[https://www.netflix.com/watch/81711973?trackId=255875003&tctx=0%2C3%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%2C61e65f81-2dd1-4739-b7bf-80817fe1cc0f-732006708%7C1%2Cunknown%2C%2C%2CsuggestionTitlesResults%2C81711973%2CVideo%3A81711973%2CminiDpPlayButton][Veneno]]
