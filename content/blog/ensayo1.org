@@ -2,3 +2,5 @@
 #+TITLE: Ensayo en Casa
 
 * Ensayo
+
+  [[file:img/WhatsApp Image 2024-01-18 at 00.29.13.jpeg]] [[file:img/WhatsApp Image 2024-01-18 at 00.29.12.jpeg]] [[file:img/WhatsApp Image 2024-01-18 at 00.29.12 (2).jpeg]] [[file:img/WhatsApp Image 2024-01-18 at 00.29.12 (1).jpeg]] [[file:img/WhatsApp Image 2024-01-18 at 00.29.10.jpeg]]

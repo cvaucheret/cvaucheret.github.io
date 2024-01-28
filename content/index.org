@@ -1,7 +1,9 @@
 #+title: Maní Con Chocolate
 
-[[color:orange][Maní]] con [[color:brown][Chocolate]] es una obra de teatro de Ana Maria Bovo
-
+[[color:orange][Maní]] con [[color:brown][Chocolate]] es una obra de teatro de [[https://www.alternativateatral.com/persona7582-ana-maria-bovo][Ana Maria Bovo]].
+Se puede decir que es autobiográfica. De hecho su titulo completo es 
+*Mani Con Chocolate (Pequeña biografía de una espectadora)* y es una obra
+de narración oral hecha por una de las narradoras mas destacadas de Argentina.
 
 * Maníes
 
@@ -10,3 +12,12 @@
 #+end_blog-entries
 
 [[file:blog/index.org][Ver mas...]]
+
+* Intérpretes
+
+  Esta versión es representaada por el Grupo *[[color:red][La Mapia Coop Payasa]]*
+  
+
+  
+
+  
