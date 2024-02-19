@@ -1,5 +1,6 @@
 #+TITLE: Maníes
 
+- {{{timestamp(19-02-2024)}}} [[file:ensayo2.org][Ensayo en Teneas]]
 - {{{timestamp(27-01-2024)}}} [[file:ensayo1.org][Lectura en Casa]]
 - {{{timestamp(27-01-2024)}}} [[file:wesanderson.org][Wes Anderson (inspiración)]]
 - {{{timestamp(26-01-2024)}}} [[file:maquillaje.org][Maquillaje]]
