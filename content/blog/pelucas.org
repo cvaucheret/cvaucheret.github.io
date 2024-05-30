@@ -1,0 +1,16 @@
+#+DATE: [2024-05-04 sáb]
+#+TITLE: Pelucas Pelucas
+
+* Palabras de nuestro vestuarista:
+
+"Se me ocurrió que les puedo hacer unas pelucas con goma espuma para
+que se cambien según la escena \ldots"
+
+[[file:img/peluca4.jpeg]]
+
+[[file:img/peluca3.jpeg]]
+
+[[file:img/peluca2.jpeg]]
+
+[[file:img/peluca1.jpeg]]
+

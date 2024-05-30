@@ -1,6 +1,7 @@
 #+TITLE: Maníes
 
 - {{{timestamp(04-05-2024)}}} [[file:godot.org][Eperando a Godot]]
+- {{{timestamp(04-05-2024)}}} [[file:pelucas.org][Pelucas Pelucas]]
 - {{{timestamp(18-02-2024)}}} [[file:ensayo2.org][Ensayo en Teneas]]
 - {{{timestamp(18-02-2024)}}} [[file:argent.org][Pedimos los Derechos]]
 - {{{timestamp(27-01-2024)}}} [[file:wesanderson.org][Wes Anderson (inspiración)]]
