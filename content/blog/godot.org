@@ -1,0 +1,6 @@
+#+DATE: [2024-05-04 sáb]
+#+TITLE: Eperando a Godot
+
+* Godot llegó antes que las chicas
+
+  [[file:img/godot.jpeg]]
