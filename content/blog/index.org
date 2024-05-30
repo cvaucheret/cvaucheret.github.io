@@ -1,5 +1,6 @@
 #+TITLE: Maníes
 
+- {{{timestamp(30-05-2024)}}} [[file:argent2.org][Nos dieron los Derechos!!]]
 - {{{timestamp(04-05-2024)}}} [[file:godot.org][Eperando a Godot]]
 - {{{timestamp(04-05-2024)}}} [[file:pelucas.org][Pelucas Pelucas]]
 - {{{timestamp(18-02-2024)}}} [[file:ensayo2.org][Ensayo en Teneas]]
