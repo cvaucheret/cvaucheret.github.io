@@ -8,7 +8,7 @@ de narración oral hecha por una de las narradoras mas destacadas de Argentina.
 * Maníes
 
 #+begin_blog-entries
-#+INCLUDE: "blog/index.org" :lines "3-"
+#+INCLUDE: "blog/index.org" :lines "3-7"
 #+end_blog-entries
 
 [[file:blog/index.org][Ver mas...]]
