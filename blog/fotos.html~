@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Lectura en Casa</title>
+<title>Se sacan fotos</title>
 <meta name="generator" content="Org mode">
 
                          <link rel="stylesheet" href="style.css" type="text/css"/>
@@ -16,19 +16,36 @@
 </div>
 <div id="content">
 <header>
-<h1 class="title">Lectura en Casa</h1>
-</header>
-<div id="outline-container-org9186a67" class="outline-2">
-<h2 id="org9186a67">Fotos de Mica</h2>
-<div class="outline-text-2" id="text-org9186a67">
+<h1 class="title">Se sacan fotos</h1>
+</header><div id="outline-container-org91b052a" class="outline-2">
+<h2 id="org91b052a">Preparando los flyers</h2>
+<div class="outline-text-2" id="text-org91b052a">
 <p>
-<img src="img/WhatsApp Image 2024-01-18 at 00.29.13.jpeg" alt="WhatsApp Image 2024-01-18 at 00.29.13.jpeg"> <img src="img/WhatsApp Image 2024-01-18 at 00.29.12.jpeg" alt="WhatsApp Image 2024-01-18 at 00.29.12.jpeg"> <img src="img/WhatsApp Image 2024-01-18 at 00.29.12 (2).jpeg" alt="WhatsApp Image 2024-01-18 at 00.29.12 (2).jpeg"> <img src="img/WhatsApp Image 2024-01-18 at 00.29.12 (1).jpeg" alt="WhatsApp Image 2024-01-18 at 00.29.12 (1).jpeg"> <img src="img/WhatsApp Image 2024-01-18 at 00.29.10.jpeg" alt="WhatsApp Image 2024-01-18 at 00.29.10.jpeg">
+fly &#x2026; fly
 </p>
+
+
+<figure>
+<img src="img/fotosf1.jpeg" alt="fotosf1.jpeg">
+
+</figure>
+
+
+<figure>
+<img src="img/fotosf2.jpeg" alt="fotosf2.jpeg">
+
+</figure>
+
+
+<figure>
+<img src="img/fotosf3.jpeg" alt="fotosf3.jpeg">
+
+</figure>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Date: 27-01-2024</p>
+<p class="date">Date: 05-09-2024</p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
 </div>
 </body>
