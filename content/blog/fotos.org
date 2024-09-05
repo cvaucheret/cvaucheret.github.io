@@ -1,0 +1,13 @@
+#+DATE: [2024-09-05 jue]
+#+TITLE: Se sacan fotos
+* Preparando los flyers
+
+fly ... fly
+
+[[file:img/fotosf1.jpeg]]
+
+[[file:img/fotosf2.jpeg]]
+
+[[file:img/fotosf3.jpeg]]
+
+

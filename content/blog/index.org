@@ -1,5 +1,7 @@
 #+TITLE: Maníes
 
+- {{{timestamp(05-09-2024)}}} [[file:fotos.org][Se sacan fotos]]
+- {{{timestamp(05-09-2024)}}} [[file:pantalla.org][Tenemos la pantalla]]
 - {{{timestamp(30-05-2024)}}} [[file:argent2.org][Nos dieron los Derechos!!]]
 - {{{timestamp(04-05-2024)}}} [[file:godot.org][Eperando a Godot]]
 - {{{timestamp(04-05-2024)}}} [[file:pelucas.org][Pelucas Pelucas]]

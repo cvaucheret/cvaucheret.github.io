@@ -1,0 +1,17 @@
+#+DATE: [2024-09-05 jue]
+#+TITLE: Tenemos la pantalla
+
+* La armamos ... La desarmamos ... 
+
+la armamos ... la desarmamos ...
+
+[[file:img/pantalla5.jpeg]]
+
+[[file:img/pantalla4.jpeg]]
+
+[[file:img/pantalla3.jpeg]]
+
+[[file:img/pantalla2.jpeg]]
+
+[[file:img/pantalla1.jpeg]]
+
